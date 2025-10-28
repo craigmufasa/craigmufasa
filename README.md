@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @craigmufasa
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Computer Science at the University of Zimbabwe
-- 💞️ I’m looking to collaborate on full stack development
+- Context Engineering and Agentic Workflows
+- 👀 Full-Stack developer (MERN), Mobile developer and AI Crypto enthusiast.
+- 🌱 Computer Science Graduate with research focus on Graphics and Interactive Techniques.
+- 💞️ Introverted Coder just hanging around.
 - 📫 How to reach me tashazcn@gmail.com
 
 <!---
