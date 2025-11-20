@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @craigmufasa
 - Context Engineering and Agentic Workflows
 - 👀 Full-Stack developer (MERN), Mobile developer and AI Crypto enthusiast.
-- 🌱 Computer Science Graduate with research focus on Graphics and Interactive Techniques.
+- 🌱 Computer Science Graduate with research focus on Graphics, Interactive Techniques and Internet of Things.
 - 💞️ Introverted Coder just hanging around.
 - 📫 How to reach me tashazcn@gmail.com
 
